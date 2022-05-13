@@ -43,3 +43,6 @@
           // finalization   - opcional
 
           end.
+
+## Estrutura de uma classe em Delphi
+![Estrutura](https://user-images.githubusercontent.com/58851247/168339639-c6dff1e3-e510-456b-843c-5c10e694e94c.png)
