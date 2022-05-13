@@ -26,7 +26,7 @@
 
           implementation
 
-          { TAdministrador }
+          { NomeClasse }
 
           procedure TAdministrador.Metodo1;
           begin
