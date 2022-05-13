@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/13 11:17:19.000.303,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:06:19.297,D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Aula01.dproj=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/13 14:06:26.151,=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:06:53.418,D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\src\unPrincipal.pas=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:11:42.171,=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:13:05.425,D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\src\CapacitacaoPOO.Classes.Pessoa.pas=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:13:23.292,=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:14:06.380,D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\src\CapacitacaoPOO.Classes.Cliente.pas=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:14:20.164,=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:15:02.346,D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\src\CapacitacaoPOO.Classes.Usuario.pas=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:15:15.010,=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:16:21.235,D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\src\CapacitacaoPOO.Classes.Administrador.pas=D:\GIT\PROJECTS_DELPHI\PRIMEIRO_PROJETO\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

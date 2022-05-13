@@ -1,0 +1,24 @@
+program Aula01;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils,
+  unPrincipal in 'src\unPrincipal.pas';
+
+var
+  Pessoa : TPessoa;
+begin
+  try
+    { TODO -oUser -cConsole Main : Insert code here }
+    Pessoa := Tpessoa.Create;
+    Writeln('Digite o nome da Pessoa: ');
+    Readln(Pessoa.Nome);
+    Writeln('Bem vindo '+ Pessoa.Nome + ' ao primeiro projeto feito em delphi!!')
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+end.
